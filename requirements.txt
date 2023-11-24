@@ -1,0 +1,9 @@
+django
+django-dotenv
+django-environ
+whitenoise
+django-crispy-forms
+crispy-bootstrap4
+Pillow
+gunicorn
+file-validator
